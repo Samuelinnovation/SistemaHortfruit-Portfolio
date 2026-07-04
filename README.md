@@ -27,7 +27,7 @@ Sistema de gestão para hortifrúti desenvolvido em Python.
 
 ## Login
 
-![Login](imagens/Login.png)
+![Login](Login.png)
 
 ## Tela de Venda
 
