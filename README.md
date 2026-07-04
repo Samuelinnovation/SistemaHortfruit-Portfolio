@@ -56,9 +56,9 @@ Sistema de gestão para hortifrúti desenvolvido em Python, focado em rapidez no
 
 ### Configurações
 
-![Configurações](configuracao.png)
+![Configurações](Configuracao.png)
 
-![Configurações](configuracao_inicio.png)
+![Configurações](Configuracao_inicio.png)
 
 ### Cupom
 
