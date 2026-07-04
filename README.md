@@ -31,39 +31,39 @@ Sistema de gestão para hortifrúti desenvolvido em Python.
 
 ## Tela de Venda
 
-![Venda](imagens/Venda.png)
+![Venda](Venda.png)
 
 ## Pesquisa de Produtos
 
-![Pesquisa](imagens/Pesquisar.png)
+![Pesquisa](Pesquisar.png)
 
 ## Forma de Pagamento
 
-![Pagamento](imagens/Forma de pagamento.png)
+![Pagamento](Forma de pagamento.png)
 
 ## Produtos
 
-![Produtos](imagens/Produtos.png)
+![Produtos](Produtos.png)
 
 ## Dashboard
 
-![Dashboard](imagens/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Caixa e Histórico
 
-![Caixa](imagens/Caixa e Histórico.png)
+![Caixa](Caixa e Histórico.png)
 
 ## Configurações
 
-![Configurações](imagens/Configurações.png)
+![Configurações](Configurações.png)
 
 ## Configurações Iniciais
 
-![Configurações Iniciais](imagens/Configurações_inicio.png)
+![Configurações Iniciais](Configurações_inicio.png)
 
 ## Cupom Impresso
 
-![Cupom](imagens/Cupom(impressão).png)
+![Cupom](Cupom(impressão).png)
 
 ## Autor
 
