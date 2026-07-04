@@ -40,7 +40,7 @@ Sistema de gestão para hortifrúti desenvolvido em Python, focado em rapidez no
 
 ### Forma de Pagamento
 
-![Pagamento](Forma de pagamento.png)
+![Pagamento](pagamento.png)
 
 ### Produtos
 
@@ -52,11 +52,13 @@ Sistema de gestão para hortifrúti desenvolvido em Python, focado em rapidez no
 
 ### Caixa e Histórico
 
-![Caixa](Caixa e Histórico.png)
+![Caixa](caixa_historico.png)
 
 ### Configurações
 
-![Configurações](configurações.png)
+![Configurações](configuracao.png)
+
+![Configurações](configuracao_inicio.png)
 
 ### Cupom
 
