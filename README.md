@@ -52,7 +52,7 @@ Sistema de gestão para hortifrúti desenvolvido em Python, focado em rapidez no
 
 ### Caixa e Histórico
 
-![Caixa](Caixa e histórico.png)
+![Caixa](Caixa e Histórico.png)
 
 ### Configurações
 
@@ -60,7 +60,7 @@ Sistema de gestão para hortifrúti desenvolvido em Python, focado em rapidez no
 
 ### Cupom
 
-![Cupom](cupom(impressão).png)
+![Cupom](Cupom(impressão).png)
 
 ## 💡 Objetivo
 
