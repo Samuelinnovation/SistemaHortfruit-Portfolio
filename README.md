@@ -1,9 +1,8 @@
-# SistemaHortfruit-Portfolio
-# Sistema Hortfruit
+# 🥬 Sistema Hortfruit
 
-Sistema de gestão para hortifrúti desenvolvido em Python.
+Sistema de gestão para hortifrúti desenvolvido em Python, focado em rapidez no atendimento, controle de vendas e operação simplificada para pequenos comércios.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
 - Venda por peso (kg)
 - Venda por unidade
@@ -12,11 +11,11 @@ Sistema de gestão para hortifrúti desenvolvido em Python.
 - Histórico de vendas
 - Dashboard administrativo
 - Impressão térmica ESC/POS
-- Operação totalmente por teclado
+- Operação por teclado
 - Backup automático
 - Sistema de licenciamento
 
-## Tecnologias
+## 🛠 Tecnologias
 
 - Python
 - SQLite
@@ -25,47 +24,49 @@ Sistema de gestão para hortifrúti desenvolvido em Python.
 - Git
 - GitHub
 
-## Login
+## 📷 Telas do Sistema
+
+### Login
 
 ![Login](Login.png)
 
-## Tela de Venda
+### Tela de Venda
 
 ![Venda](Venda.png)
 
-## Pesquisa de Produtos
+### Pesquisa de Produtos
 
 ![Pesquisa](Pesquisar.png)
 
-## Forma de Pagamento
+### Forma de Pagamento
 
 ![Pagamento](Forma de pagamento.png)
 
-## Produtos
+### Produtos
 
 ![Produtos](Produtos.png)
 
-## Dashboard
+### Dashboard
 
 ![Dashboard](Dashboard.png)
 
-## Caixa e Histórico
+### Caixa e Histórico
 
-![Caixa](Caixa e Histórico.png)
+![Caixa](Caixa e histórico.png)
 
-## Configurações
+### Configurações
 
-![Configurações](Configurações.png)
+![Configurações](configurações.png)
 
-## Configurações Iniciais
+### Cupom
 
-![Configurações Iniciais](Configurações_inicio.png)
+![Cupom](cupom(impressão).png)
 
-## Cupom Impresso
+## 💡 Objetivo
 
-![Cupom](Cupom(impressão).png)
+Este projeto foi desenvolvido para atender pequenos estabelecimentos do setor hortifrúti, oferecendo uma solução simples, rápida e eficiente para controle de vendas e operação de caixa.
 
-## Autor
+## 👨‍💻 Autor
 
 Samuel Barbosa da Silva
 
